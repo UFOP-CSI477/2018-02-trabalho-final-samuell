@@ -21,7 +21,7 @@ O objetivo deste documento é apresentar uma proposta para o trabalho a ser dese
 <!-- Apresentar restrições de funcionalidades e de escopo. -->
 ### 3. Restrições
 
-  Neste trabalho somente serão considerados como usuários do sistema, clientes da Companhia Energética de Minas Gerais S.A. (CEMIG) do tipo residencial normal (baixa tensão, tarifa B1, bandeira verde) [CEMIG 2018]
+  Neste trabalho somente serão considerados como usuários do sistema, clientes da Companhia Energética de Minas Gerais S.A. (CEMIG) do tipo residencial normal (baixa tensão, tarifa B1, bandeira verde) [CEMIG 2018].
 
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
 ### 4. Protótipo
