@@ -28,6 +28,8 @@ O objetivo deste documento é apresentar uma proposta para o trabalho a ser dese
   Não foram elaborados protótipos para as páginas.
 
 ### 5. Referências
-VALORES DE TARIFA E SERVIÇOS. CEMIG. Disponível em: <https://www.cemig.com.br/pt-br/atendimento/Paginas/valores_de_tarifa_e_servicos.aspx>. Acesso em: 02 dez. 2018.
-
 CALEARO, Rafael Souza. CRUD SIMPLES E RÁPIDO USANDO O FRAMEWORK LARAVEL. Disponível em: <https://gitlab.com/rafaelcalearo/projetoFramework>. Acesso em: 30 nov. 2018.
+
+CEMIG. VALORES DE TARIFA E SERVIÇOS. Disponível em: <https://www.cemig.com.br/pt-br/atendimento/Paginas/valores_de_tarifa_e_servicos.aspx>. Acesso em: 02 dez. 2018.
+
+EFLUL. POTÊNCIA ELÉTRICA MÉDIA (WATTS) DE APARELHOS ELÉTRICOS. Disponível em: <http://www.eflul.com.br/consumidores/tabela-de-consumo>. Acesso em: 04 dez. 2018.
