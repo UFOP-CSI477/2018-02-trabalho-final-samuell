@@ -25,7 +25,7 @@ O objetivo deste documento é apresentar uma proposta para o trabalho a ser dese
 
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
 ### 4. Protótipo
-  Foram elaborados protótipos para as páginas inicial e principal:
+  Foram elaborados dois protótipos para as páginas inicial e principal:
   
   ![Acesso](https://github.com/UFOP-CSI477/2018-02-trabalho-final-samuell/blob/master/1-Acesso.png)
   
