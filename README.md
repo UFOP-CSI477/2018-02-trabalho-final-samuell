@@ -11,7 +11,7 @@ O objetivo deste documento é apresentar uma proposta para o trabalho a ser dese
 <!-- Apresentar o tema. -->
 ### 1. Tema
 
-  O trabalho final tem como tema a proposta de um sistema web para o controle de consumo de energia elétrica residencial normal, utilizando as seguintes tecnologias/ferramentas: HTML, CSS, JavaScript, PHP, Banco de Dados MySQL, Bootstrap, JQuery, Laravel, WampServer, Sublime, GitHub.
+  O trabalho final tem como tema a proposta de um sistema web para o controle de consumo de energia elétrica residencial normal, utilizando as seguintes tecnologias/ferramentas: HTML, CSS, JavaScript, PHP, Banco de Dados MySQL, Bootstrap, JQuery, Laravel, WampServer, Sublime, GitHub, Pencil.
   
 <!-- Descrever e limitar o escopo da aplicação. -->
 ### 2. Escopo
@@ -25,7 +25,7 @@ O objetivo deste documento é apresentar uma proposta para o trabalho a ser dese
 
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
 ### 4. Protótipo
-  Foram elaborados dois protótipos para as páginas inicial e principal:
+  Foram elaborados dois protótipos para as páginas inicial e principal utilizando a ferramenta Pencil:
   
   ![Acesso](https://github.com/UFOP-CSI477/2018-02-trabalho-final-samuell/blob/master/1-Acesso.png)
   
