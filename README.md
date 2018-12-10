@@ -25,7 +25,11 @@ O objetivo deste documento é apresentar uma proposta para o trabalho a ser dese
 
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->
 ### 4. Protótipo
-  Não foram elaborados protótipos para as páginas.
+  Foram elaborados protótipos para as páginas inicial e principal:
+  
+  ![Acesso](https://github.com/UFOP-CSI477/2018-02-trabalho-final-samuell/blob/master/1-Acesso.png)
+  
+  ![Principal](https://github.com/UFOP-CSI477/2018-02-trabalho-final-samuell/blob/master/2-Principal.png)
 
 ### 5. Referências
 CALEARO, Rafael Souza. CRUD SIMPLES E RÁPIDO USANDO O FRAMEWORK LARAVEL. Disponível em: <https://gitlab.com/rafaelcalearo/projetoFramework>. Acesso em: 30 nov. 2018.
